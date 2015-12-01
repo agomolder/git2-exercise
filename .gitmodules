@@ -1,0 +1,4 @@
+[submodule "sillamodule"]
+	path = sillamodule
+	url = https://github.com/markosilla/git2-exercise.git
+	branch = sBranch
